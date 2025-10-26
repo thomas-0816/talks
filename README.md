@@ -25,3 +25,7 @@
 ### 2023
 
 - [MySQL for E-Commerce - IPC](https://github.com/thomasbley/talks/blob/master/MySQL_for_Ecommerce_ipc_2023_ThomasBley.pdf)
+
+### 2025
+
+- [HTMX](https://github.com/thomas-0816/talks/blob/master/HTMX_2025_ThomasBley.pdf)
