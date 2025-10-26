@@ -28,4 +28,4 @@
 
 ### 2025
 
-- [HTMX - PHP UG MRN](https://github.com/thomas-0816/talks/blob/master/HTMX_2025_ThomasBley.pdf)
+- [HTMX - PHP UG MRN](https://github.com/thomas-0816/talks/blob/master/HTMX_phpugmrn_2025_ThomasBley.pdf)
