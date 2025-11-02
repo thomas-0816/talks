@@ -29,5 +29,5 @@
 ### 2025
 
 - [HTMX - PHP UG MRN](https://github.com/thomas-0816/talks/blob/master/HTMX_phpugmrn_2025_ThomasBley.pdf)
-- [Run LLMs locally - NEW](https://github.com/thomas-0816/talks/blob/master/Run_LLMs_Locally_2025_ThomasBley.pdf)
-- [From Redis to Apache KVRocks](https://github.com/thomas-0816/talks/blob/master/From_Redis_To_Apache_KVRocks_2025_ThomasBley.pdf)
+- [🆕 Run LLMs locally - NEW](https://github.com/thomas-0816/talks/blob/master/Run_LLMs_Locally_2025_ThomasBley.pdf)
+- [🆕 From Redis to Apache KVRocks - NEW ](https://github.com/thomas-0816/talks/blob/master/From_Redis_To_Apache_KVRocks_2025_ThomasBley.pdf)
