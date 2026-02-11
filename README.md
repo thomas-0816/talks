@@ -29,5 +29,8 @@
 ### 2025
 
 - [HTMX - PHP UG MRN](https://codeberg.org/thbley/talks/src/branch/main/HTMX_phpugmrn_2025_ThomasBley.pdf)
+
+### 2026
+
 - [🆕 Run LLMs locally - NEW](https://codeberg.org/thbley/talks/src/branch/main/Run_LLMs_Locally_2025_ThomasBley.pdf)
 - [🆕 From Redis to Apache KVRocks - NEW ](https://codeberg.org/thbley/talks/src/branch/main/From_Redis_To_Apache_KVRocks_2025_ThomasBley.pdf)
