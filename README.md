@@ -32,7 +32,8 @@
 
 ### 2026
 
-- [Run LLMs locally - PHP UG MRN, PHP UG Frankfurt - NEW](https://codeberg.org/thbley/talks/src/branch/main/Run_LLMs_Locally_2026_ThomasBley.pdf)
+- [Run LLMs locally - MLCon - NEW](https://codeberg.org/thbley/talks/src/branch/main/Run_LLMs_Locally_2026_ThomasBley_MLCon_2026.pdf)
+- [Run LLMs locally - PHP UG MRN, PHP UG Frankfurt - NEW](https://codeberg.org/thbley/talks/src/branch/main/Run_LLMs_Locally_2026_ThoasBley.pdf)
 - [Run LLMs locally in the browser - NEW](https://codeberg.org/thbley/talks/src/branch/main/Run_LLMs_Locally_in_the_browser_2026_ThomasBley.pdf)
 - [From Redis to Apache KVRocks - NEW](https://codeberg.org/thbley/talks/src/branch/main/From_Redis_To_Apache_KVRocks_2026_ThomasBley.pdf)
 - [How to integrate a Virus Scanner into your Pipelines - NEW](https://codeberg.org/thbley/talks/src/branch/main/Pipelines_with_VirusScanner_2026_ThomasBley.pdf)
