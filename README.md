@@ -33,7 +33,7 @@
 ### 2026
 
 - [Run LLMs locally - MLCon - NEW](https://github.com/thomas-0816/talks/blob/main/Run_LLMs_Locally_2026_ThomasBley_MLCon_2026.pdf)
-- [Run LLMs locally - PHP UG MRN, PHP UG Frankfurt - NEW](https://github.com/thomas-0816/talks/blob/main/main/Run_LLMs_Locally_2026_ThomasBley.pdf)
+- [Run LLMs locally - PHP UG MRN, PHP UG Frankfurt - NEW](https://github.com/thomas-0816/talks/blob/main/Run_LLMs_Locally_2026_ThomasBley.pdf)
 - [Run LLMs locally in the browser - NEW](https://github.com/thomas-0816/talks/blob/main/Run_LLMs_Locally_in_the_browser_2026_ThomasBley.pdf)
 - [From Redis to Apache KVRocks - NEW](https://github.com/thomas-0816/talks/blob/main/From_Redis_To_Apache_KVRocks_2026_ThomasBley.pdf)
 - [How to integrate a Virus Scanner into your Pipelines - NEW](https://github.com/thomas-0816/talks/blob/main/Pipelines_with_VirusScanner_2026_ThomasBley.pdf)
