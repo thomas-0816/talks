@@ -1,5 +1,7 @@
 ## Thomas Bley - Slides for my Talks
 
+<img width="500" height="273" alt="logo" src="logo.jpg" />
+
 ### 2019
 
 - [Getting started with PHP on AWS Lambda - Berlin PHP Usergroup](https://github.com/thomas-0816/talks/blob/main/Getting_started_aws_lambda_bephpug_2019_ThomasBley.pdf)
